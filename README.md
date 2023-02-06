@@ -36,8 +36,8 @@
 
 ## Usage
 
-1. Visit [this page](https://replit.com/themes?authorId=20252294).
-2. Choose a flavor.
+1. Browse official flavors [here](https://replit.com/themes?authorId=20252294).
+2. Click on the flavor you want to install.
 3. Click `Use Theme`.
 
 ## 💝 Thanks to
